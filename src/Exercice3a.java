@@ -1,6 +1,8 @@
 import java.util.LinkedList;
 import java.util.Stack;
 
+// author: Guy ABN
+
 public class Exercice3a {
     public static void main(String arg[]) throws Exception {
         // EXERCICE 3 test

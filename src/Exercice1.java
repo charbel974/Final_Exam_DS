@@ -1,5 +1,7 @@
 import java.util.Stack;
 
+// author: Guy ABN
+
 public class Exercice1 {
     public static void main(String[] args) throws Exception {
         // EXERCICE 1 test
